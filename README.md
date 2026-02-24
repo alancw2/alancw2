@@ -54,7 +54,7 @@ Expected Graduation: **May 2028**
 
 ## 📫 Contact
 
-- **LinkedIn:** (https://www.linkedin.com/in/alan-ward-b79686189/)(https://www.linkedin.com/in/alan-ward-b79686189/ 
+- **LinkedIn:** https://www.linkedin.com/in/alan-ward-b79686189/)(https://www.linkedin.com/in/alan-ward-b79686189/ 
 - **Email:** alancw2@illinois.edu
 - **GitHub:** https://github.com/alancw2
 
