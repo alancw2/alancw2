@@ -16,12 +16,12 @@ I enjoy shipping real, working systems with clean design, strong data models, an
 
 ## 🚀 Projects
 
-### 🧩 TutorOps — Tutoring Workflow Automation Platform  
-**FastAPI • SQLite • Chrome Extension • Docker**
+### 🧩 TutorOps — Tutoring Workflow Backend Platform  
+**FastAPI • SQLite • Docker**
 
-An end-to-end system designed to automate tutoring client management and session tracking.
+A backend system for managing tutoring clients, sessions, and aggregate analytics.
 
-#### Backend (Production-ready)
+**Key Features:**
 
 - Built REST API using FastAPI  
 - Designed normalized SQL data models for clients and sessions  
@@ -29,14 +29,20 @@ An end-to-end system designed to automate tutoring client management and session
 - Added automated tests with passing test suite  
 - Containerized backend with Docker for reproducible deployment  
 
-#### Frontend / Extension (In Progress)
+**Focus:** backend reliability, data modeling, and real-world workflow support.
 
-- Chrome extension for tutor log autofill  
-- Client data persistence via Chrome storage  
-- Autofill functionality currently under active debugging  
+---
 
-**Why this project matters:**  
-Focuses on real business workflow automation rather than toy CRUD — emphasizes backend reliability, data modeling, and practical deployment.
+### 🧠 Tutor Log Autofill Chrome Extension  
+**JavaScript • Chrome Extension APIs**
+
+A browser extension designed to reduce repetitive tutor log entry work.
+
+**Features:**
+
+- Stores and manages client data via Chrome local storage  
+- Injects scripts to assist with form autofill  
+- Built using Manifest V3 architecture  
 
 ---
 
