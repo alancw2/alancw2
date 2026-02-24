@@ -1,61 +1,84 @@
 # Hi, I'm Alan Ward 👋
 
-I'm a Mathematics major at the **University of Illinois Urbana-Champaign (UIUC)** with a minor in **Computer Science**. I'm interested in **Software Engineering**, systems development, and using math to solve real-world problems.
+I'm a Mathematics major at the **University of Illinois Urbana-Champaign (UIUC)** with a minor in **Computer Science**. I'm interested in **Software Engineering**, systems development, and building practical tools that solve real-world workflow problems.
 
-I enjoy building practical projects that focus on clean design, performance, and reliability.
+I enjoy shipping real, working systems with clean design, strong data models, and reliable backend logic.
 
 ---
 
 ## 🔧 Technical Skills
 
-- **Languages:** Python, Java, C++, JavaScript  
-- **Tools:** Git, Linux, Bash  
-- **Concepts:** Object-Oriented Programming, Data Structures & Algorithms, Debugging, Software Design
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**Frameworks & Tools:** FastAPI, Chrome Extensions, Git, Linux, Bash, Docker  
+**Concepts:** REST APIs, Object-Oriented Programming, Data Structures & Algorithms, Software Design, Debugging
 
 ---
 
 ## 🚀 Projects
 
-### 🔐 Encrypted Chat Application (Java)
-A secure client-server chat application built with a focus on privacy and clean architecture.
-- Implemented encrypted communication and secure message handling
-- Designed with modular code organization and maintainability in mind
-- Built as a real-world systems-style project
+### 🧩 TutorOps — Tutoring Workflow Automation Platform  
+**FastAPI • SQLite • Chrome Extension • Docker**
 
-### 🧩 Tutor Log Automation Chrome Extension (JavaScript)
-A Chrome extension designed to automate repetitive tutoring workflow tasks.
-- Stores and manages client data using structured JSON models
-- Automates form entry and logging
-- Uses Chrome extension APIs and browser storage
+An end-to-end system designed to automate tutoring client management and session tracking.
+
+#### Backend (Production-ready)
+
+- Built REST API using FastAPI  
+- Designed normalized SQL data models for clients and sessions  
+- Implemented global summary analytics (hours, earnings, session counts)  
+- Added automated tests with passing test suite  
+- Containerized backend with Docker for reproducible deployment  
+
+#### Frontend / Extension (In Progress)
+
+- Chrome extension for tutor log autofill  
+- Client data persistence via Chrome storage  
+- Autofill functionality currently under active debugging  
+
+**Why this project matters:**  
+Focuses on real business workflow automation rather than toy CRUD — emphasizes backend reliability, data modeling, and practical deployment.
+
+---
+
+### 🔐 Encrypted Chat Application (Java)
+
+A secure client-server chat application built with a focus on privacy and clean architecture.
+
+- Implemented encrypted communication and secure message handling  
+- Designed modular, maintainable code structure  
+- Built as a systems-oriented networking project  
+
+---
 
 ### 🎲 Monte Carlo Simulation Tools (Python)
-A probability-based simulation engine for modeling cost outcomes.
-- Built using Python and NumPy
-- Designed for data analysis and visualization
-- Focused on clean and reusable simulation design
+
+Probability-based simulation engine for modeling cost outcomes.
+
+- Built using Python and NumPy  
+- Designed for reusable statistical experimentation  
+- Focused on clean simulation architecture and visualization  
 
 ---
 
 ## 📚 Current Focus
 
-- Building stronger SWE internship-ready projects
-- Improving algorithm and interview problem-solving skills
-- Learning more about software systems and engineering best practices
+- Securing a Summer 2026 Software Engineering internship  
+- Strengthening systems and backend engineering skills  
+- Expanding TutorOps into a full production-ready platform  
+- Deepening data structures and algorithm mastery  
 
 ---
 
 ## 🎓 Education
 
 **University of Illinois Urbana-Champaign**  
-B.S. Mathematics (Minor in Computer Science)  
+B.S. Mathematics, Minor in Computer Science  
 Expected Graduation: **May 2028**
 
 ---
 
 ## 📫 Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/alan-ward-b79686189/)(https://www.linkedin.com/in/alan-ward-b79686189/ 
-- **Email:** alancw2@illinois.edu
+- **LinkedIn:** https://www.linkedin.com/in/alan-ward-b79686189/  
+- **Email:** alancw2@illinois.edu  
 - **GitHub:** https://github.com/alancw2
-
----
