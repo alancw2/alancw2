@@ -1,8 +1,8 @@
-# Hi, I'm Alan Ward 👋
+# Hi, I'm Alan Ward 
 
 I'm a Mathematics major at the **University of Illinois Urbana-Champaign (UIUC)** with a minor in **Computer Science**. I'm interested in **Software Engineering**, systems development, and building practical tools that solve real-world workflow problems.
 
-I enjoy shipping real, working systems with clean design, strong data models, and reliable backend logic.
+I've been enjoying shipping real, working systems with clean design, strong data models, and reliable backend logic.
 
 ---
 
