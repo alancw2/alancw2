@@ -71,7 +71,7 @@ Probability-based simulation engine for modeling cost outcomes.
 - Securing a Summer 2026 Software Engineering internship  
 - Strengthening systems and backend engineering skills  
 - Expanding TutorOps into a full production-ready platform  
-- Deepening data structures and algorithm mastery  
+- Rewriting and expanding Chat App using C++ for performance and scalability.
 
 ---
 
