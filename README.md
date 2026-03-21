@@ -44,25 +44,16 @@ A browser extension designed to reduce repetitive tutor log entry work.
 - Injects scripts to assist with form autofill  
 - Built using Manifest V3 architecture  
 
----
-
-### 🔐 Encrypted Chat Application (Java)
-
-A secure client-server chat application built with a focus on privacy and clean architecture.
-
-- Implemented encrypted communication and secure message handling  
-- Designed modular, maintainable code structure  
-- Built as a systems-oriented networking project  
 
 ---
 
-### 🎲 Monte Carlo Simulation Tools (Python)
+### 🎲 LibChat (C++)
 
 Probability-based simulation engine for modeling cost outcomes.
 
-- Built using Python and NumPy  
-- Designed for reusable statistical experimentation  
-- Focused on clean simulation architecture and visualization  
+- Concurrent multi-threaded messaging framework.
+- lightweight and built for self-hosting/homelabbing. 
+- Features a debugging client in the repository. 
 
 ---
 
