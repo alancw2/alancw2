@@ -49,7 +49,7 @@ A browser extension designed to reduce repetitive tutor log entry work.
 
 ### 🎲 LibChat (C++)
 
-Probability-based simulation engine for modeling cost outcomes.
+Multi-threaded selfhosted messaging.
 
 - Concurrent multi-threaded messaging framework.
 - lightweight and built for self-hosting/homelabbing. 
