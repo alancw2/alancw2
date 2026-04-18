@@ -61,8 +61,7 @@ Multi-threaded selfhosted messaging.
 
 - Securing a Summer 2026 Software Engineering internship  
 - Strengthening systems and backend engineering skills  
-- Expanding TutorOps into a full production-ready platform  
-- Rewriting and expanding Chat App using C++ for performance and scalability.
+- Expanding LibChat into a full production-ready platform  
 
 ---
 
